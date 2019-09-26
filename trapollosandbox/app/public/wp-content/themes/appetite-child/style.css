@@ -1,0 +1,30 @@
+/*
+ Theme Name:   Appetite Child
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Appetite Child Theme
+ Author:       dq
+ Author URI:   http://example.com
+ Template:     appetite
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  appetite child theme
+*/
+
+
+
+.myclass {
+    color:#ff1100;
+    -webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
+    transition: color 2s;
+}
+
+.myclass:hover {
+    color: #ff9900;
+}
+
+li {
+
+    color:#ff9911;
+}
